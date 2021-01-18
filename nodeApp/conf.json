@@ -1,0 +1,7 @@
+{
+	"APIM_consumer_key" : "gkGpRZczJjYOfdf0uAl5E6WfhfEa",
+	"APIM_consumer_secret": "RgINV0WL6ShBr8rc1K2T9FB7HXYa",
+	"Gateway_url" : "http://localhost:8280",
+	"Events_from" : "2021-01-11T00:00:00-05:30",
+	"Events_to" : "2021-01-17T00:00:00-05:30"
+}
